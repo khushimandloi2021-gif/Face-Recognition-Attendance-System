@@ -1,0 +1,13 @@
+# Face datasets and personal images
+data/
+unknown_faces/
+
+# Trained model and generated records
+classifier.xml
+log.csv
+attendance.csv
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
